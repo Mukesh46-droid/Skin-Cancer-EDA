@@ -125,7 +125,7 @@ pip install numpy pandas matplotlib Pillow
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/skin-cancer-eda.git
+git clone https://github.com/Mukesh46-droid/skin-cancer-eda.git
 cd skin-cancer-eda
 
 # Download the dataset from Kaggle and place in ./dataset/
